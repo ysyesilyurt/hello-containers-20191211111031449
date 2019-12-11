@@ -28,7 +28,7 @@ metadata:
   name: example-nodeejs
 spec:
   selector:
-    app: example-nodes
+    app: example-nodejs
   ports:
   - port: 3000
     targetPort: 3000
